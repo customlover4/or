@@ -1,3 +1,3 @@
-module github.com/customlover-4/or
+module github.com/customlover4/or
 
 go 1.24.6
